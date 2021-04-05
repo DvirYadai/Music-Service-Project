@@ -1,0 +1,367 @@
+[
+  {
+    "id": 1,
+    "playlistName": "Running",
+    "viewCount": "13116641",
+    "createdAt": "20/03/2019",
+    "img": "https://img.freepik.com/free-photo/man-runner-start-running-road_34152-1432.jpg?size=626&ext=jpg&ga=GA1.2.1377952299.1616630400",
+    "songs": [
+      {
+        "id": "MHZGOJ1kysc",
+        "img": "https://lh3.googleusercontent.com/gSjSpiwhol20w2GLjYSR81AOBvdo1UiLRBeu8RbVuRZjtHh6yipa22c26_TZK2Jm7_BGi4FApSXFIZo2VA=w544-h544-l90-rj",
+        "snippet": {
+          "channelId": "UCfM3zsQsOnfWNUppiycmBuw",
+          "title": "Unaccommodating (feat. Young M.A) [Official Audio]",
+          "categoryId": "10"
+        },
+        "statistics": {
+          "viewCount": "13116641",
+          "likeCount": "142475",
+          "dislikeCount": "3834",
+          "favoriteCount": "0",
+          "commentCount": "9506"
+        }
+      },
+      {
+        "id": "P-SyH04QKGU",
+        "img": "https://lh3.googleusercontent.com/MN50zTHFkftHsLUWgtbJm6bsfr_4v6ymnPyq2Py-QAmODCLzOCZXfUUJd_DA24Z-Kg5AADrVmaaR2dF9gQ=w544-h544-l90-rj",
+        "snippet": {
+          "channelId": "UCedvOgsKFzcK3hA5taf3KoQ",
+          "title": "Evil Twin (Skit)",
+          "categoryId": "10"
+        },
+        "statistics": {
+          "viewCount": "624830",
+          "likeCount": "8339",
+          "dislikeCount": "1071",
+          "favoriteCount": "0",
+          "commentCount": "172"
+        }
+      },
+      {
+        "id": "7jR65jnUyvA",
+        "img": "https://lh3.googleusercontent.com/gSjSpiwhol20w2GLjYSR81AOBvdo1UiLRBeu8RbVuRZjtHh6yipa22c26_TZK2Jm7_BGi4FApSXFIZo2VA=w544-h544-l90-rj",
+        "snippet": {
+          "channelId": "UCfM3zsQsOnfWNUppiycmBuw",
+          "title": "Lock It Up (feat. Anderson .Paak) [Official Audio]",
+          "categoryId": "10"
+        },
+        "statistics": {
+          "viewCount": "9795148",
+          "likeCount": "114764",
+          "dislikeCount": "1852",
+          "favoriteCount": "0",
+          "commentCount": "5743"
+        }
+      },
+      {
+        "id": "zTFBJgnNgU4",
+        "img": "https://lh3.googleusercontent.com/WeKO1aOiYAkTmODObfi7v08VWoTGpA8l20WP182DOXCDm2x0MeVuZh_jUZ3CnZkhf3WxK_cS6XI_AYd3wg=w544-h544-l90-rj",
+        "snippet": {
+          "channelId": "UCDPM_n1atn2ijUwHd0NNRQw",
+          "title": "Coldplay - Charlie Brown (Official Video)",
+          "categoryId": "10"
+        },
+        "statistics": {
+          "viewCount": "147779372",
+          "likeCount": "466704",
+          "dislikeCount": "11291",
+          "favoriteCount": "0",
+          "commentCount": "26141"
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "playlistName": "Cooking",
+    "viewCount": "38200877",
+    "createdAt": "15/09/2020",
+    "img": "https://img.freepik.com/free-vector/cooking-time-background-with-kitchenware-cookware-objects-realistic_1284-33152.jpg?size=626&ext=jpg&ga=GA1.2.1356500412.1616976000",
+    "songs": [
+      {
+        "id": "gKM15TaKLUI",
+        "img": "https://lh3.googleusercontent.com/FrPId047QbNpFZfEtUJQDTC2-MGkgo4JPzasmIkdvFLjbQGNppcmRdOFXo6c3swTP_iP-ozTXhu8OBRSOw=w544-h544-l90-rj",
+        "snippet": {
+          "channelId": "UCDPM_n1atn2ijUwHd0NNRQw",
+          "title": "Coldplay - Ink (Official Fans' Cut Video)",
+          "categoryId": "10"
+        },
+        "statistics": {
+          "viewCount": "38200877",
+          "likeCount": "196476",
+          "dislikeCount": "3980",
+          "favoriteCount": "0",
+          "commentCount": "4318"
+        }
+      },
+      {
+        "id": "MHZGOJ1kysc",
+        "img": "https://lh3.googleusercontent.com/gSjSpiwhol20w2GLjYSR81AOBvdo1UiLRBeu8RbVuRZjtHh6yipa22c26_TZK2Jm7_BGi4FApSXFIZo2VA=w544-h544-l90-rj",
+        "snippet": {
+          "channelId": "UCfM3zsQsOnfWNUppiycmBuw",
+          "title": "Unaccommodating (feat. Young M.A) [Official Audio]",
+          "categoryId": "10"
+        },
+        "statistics": {
+          "viewCount": "13116641",
+          "likeCount": "142475",
+          "dislikeCount": "3834",
+          "favoriteCount": "0",
+          "commentCount": "9506"
+        }
+      },
+      {
+        "id": "GiNUWVNtpv8",
+        "img": "https://lh3.googleusercontent.com/xe9bE6n-eibnXPIlc-UEemlqsMMcz-S100IjrclFeaKrw1ATP9rbPrNy9jLA1zA02Zc-3YAFROuNEFKA=w544-h544-l90-rj",
+        "snippet": {
+          "channelId": "UCDPM_n1atn2ijUwHd0NNRQw",
+          "title": "Amazing Day Global Film Project",
+          "categoryId": "10"
+        },
+        "statistics": {
+          "viewCount": "2867581",
+          "likeCount": "44663",
+          "dislikeCount": "832",
+          "favoriteCount": "0",
+          "commentCount": "3212"
+        }
+      },
+      {
+        "id": "we-LaiQNY5s",
+        "img": "https://lh3.googleusercontent.com/iBUyRLE9gQmW2iOa5sh9acIFA3v6lc1Q5kQwu__EkR5awK_FmiSyKvPYjesqzTwXhGKbyeH_mhicI9s=w544-h544-l90-rj",
+        "snippet": {
+          "channelId": "UCDPM_n1atn2ijUwHd0NNRQw",
+          "title": "Coldplay - A L I E N S (Official Lyric Video)",
+          "categoryId": "10"
+        },
+        "statistics": {
+          "viewCount": "11668326",
+          "likeCount": "147992",
+          "dislikeCount": "11878",
+          "favoriteCount": "0",
+          "commentCount": "8620"
+        }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "playlistName": "Sleeping",
+    "viewCount": "2754965",
+    "createdAt": "13/07/2010",
+    "img": "https://img.freepik.com/free-vector/flat-person-sleeping-night-bed-background_52683-9246.jpg?size=338&ext=jpg&ga=GA1.2.1356500412.1617062400",
+    "songs": [
+      {
+        "id": "lK2vs9Tokng",
+        "img": "https://lh3.googleusercontent.com/49WAwREEnEy4zlpg1xCLeBUjcOfFqpKPu0aQ2Z4C-Ho13BK3kW0mwNe-vAFayQh8UZ-qNlEVvLn7Xgut=w544-h544-l90-rj",
+        "snippet": {
+          "channelId": "UCDPM_n1atn2ijUwHd0NNRQw",
+          "title": "Coldplay - Church (Official Lyric Video)",
+          "categoryId": "10"
+        },
+        "statistics": {
+          "viewCount": "2754965",
+          "likeCount": "31454",
+          "dislikeCount": "526",
+          "favoriteCount": "0",
+          "commentCount": "1369"
+        }
+      },
+      {
+        "id": "D1I1x2pYMK0",
+        "img": "https://lh3.googleusercontent.com/O-SeXg61tYo15uWSBzWPVoUlBx2mQAioidlHq3y-AurmaQZI2Vso7BJoGeDNAm2g6HquAq1z4g-1EBI=w544-h544-l90-rj",
+        "snippet": {
+          "channelId": "UCedvOgsKFzcK3hA5taf3KoQ",
+          "title": "Kill You",
+          "categoryId": "10"
+        },
+        "statistics": {
+          "viewCount": "16576044",
+          "likeCount": "204377",
+          "dislikeCount": "8810",
+          "favoriteCount": "0",
+          "commentCount": "3836"
+        }
+      },
+      {
+        "id": "HEVPKuxkWzA",
+        "img": "https://lh3.googleusercontent.com/GJmbTYfaMrWuPSzhOAy7jGCQ70a2UN2-0moTq-uh_Prd73-Au51FDHhGteg543a7iBv1Y9SPm4huMSBS=w544-h544-s-l90-rj",
+        "snippet": {
+          "channelId": "UCedvOgsKFzcK3hA5taf3KoQ",
+          "title": "When The Music Stops",
+          "categoryId": "10"
+        },
+        "statistics": {
+          "viewCount": "3746955",
+          "likeCount": "46280",
+          "dislikeCount": "2663",
+          "favoriteCount": "0",
+          "commentCount": "595"
+        }
+      },
+      {
+        "id": "CXOuig0TwOY",
+        "img": "https://lh3.googleusercontent.com/b-euORTq-_MSzc3SyI0QOjLqnCBJbWuMmH1YlyJKAVvJfOpPqv3bFH-KSDoQwV9e8Xey1X2NRo9xZ2U=w544-h544-l90-rj",
+        "snippet": {
+          "channelId": "UCedvOgsKFzcK3hA5taf3KoQ",
+          "title": "Remind Me",
+          "categoryId": "10"
+        },
+        "statistics": {
+          "viewCount": "1304883",
+          "likeCount": "22408",
+          "dislikeCount": "2295",
+          "favoriteCount": "0",
+          "commentCount": "681"
+        }
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "playlistName": "Workout",
+    "viewCount": "8537053",
+    "createdAt": "18/03/2021",
+    "img": "https://image.shutterstock.com/image-photo/woman-exercise-workout-gym-fitness-260nw-749969473.jpg",
+    "songs": [
+      {
+        "id": "vxpeKhbeLm0",
+        "img": "https://lh3.googleusercontent.com/GJmbTYfaMrWuPSzhOAy7jGCQ70a2UN2-0moTq-uh_Prd73-Au51FDHhGteg543a7iBv1Y9SPm4huMSBS=w544-h544-s-l90-rj",
+        "snippet": {
+          "channelId": "UCedvOgsKFzcK3hA5taf3KoQ",
+          "title": "White America",
+          "categoryId": "10"
+        },
+        "statistics": {
+          "viewCount": "8537053",
+          "likeCount": "90459",
+          "dislikeCount": "6897",
+          "favoriteCount": "0",
+          "commentCount": "1199"
+        }
+      },
+      {
+        "id": "zjiDHWm7NTE",
+        "img": "https://lh3.googleusercontent.com/uug1FXZw9zd6z8YNleGWyiKBBxvMXSBPtnTGqLJDt3mINoyUyo2s7bZocZPfDFIPEyEteOMexpbw7Q0=w544-h544-l90-rj",
+        "snippet": {
+          "channelId": "UCedvOgsKFzcK3hA5taf3KoQ",
+          "title": "Tonya (Skit)",
+          "categoryId": "10"
+        },
+        "statistics": {
+          "viewCount": "345473",
+          "likeCount": "1564",
+          "dislikeCount": "578",
+          "favoriteCount": "0",
+          "commentCount": "31"
+        }
+      },
+      {
+        "id": "R6FOFFPatds",
+        "img": "https://lh3.googleusercontent.com/uug1FXZw9zd6z8YNleGWyiKBBxvMXSBPtnTGqLJDt3mINoyUyo2s7bZocZPfDFIPEyEteOMexpbw7Q0=w544-h544-l90-rj",
+        "snippet": {
+          "channelId": "UCedvOgsKFzcK3hA5taf3KoQ",
+          "title": "Insane",
+          "categoryId": "10"
+        },
+        "statistics": {
+          "viewCount": "1701919",
+          "likeCount": "20394",
+          "dislikeCount": "1785",
+          "favoriteCount": "0",
+          "commentCount": "363"
+        }
+      },
+      {
+        "id": "CXOuig0TwOY",
+        "img": "https://lh3.googleusercontent.com/b-euORTq-_MSzc3SyI0QOjLqnCBJbWuMmH1YlyJKAVvJfOpPqv3bFH-KSDoQwV9e8Xey1X2NRo9xZ2U=w544-h544-l90-rj",
+        "snippet": {
+          "channelId": "UCedvOgsKFzcK3hA5taf3KoQ",
+          "title": "Remind Me",
+          "categoryId": "10"
+        },
+        "statistics": {
+          "viewCount": "1304883",
+          "likeCount": "22408",
+          "dislikeCount": "2295",
+          "favoriteCount": "0",
+          "commentCount": "681"
+        }
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "playlistName": "Chill",
+    "viewCount": "2644436",
+    "createdAt": "24/12/2005",
+    "img": "https://hdwallsource.com/img/2014/7/chill-wallpapers-20309-20819-hd-wallpapers.jpg",
+    "songs": [
+      {
+        "id": "IHOGHkiFmfU",
+        "img": "https://lh3.googleusercontent.com/opIAAvJnAqSXWVnIfnRgeXp5lH5HnxdbEQcfYo21X0Yw8aNHI_iwioBZ-6_6yc1L6Ysiga2Jyw0FX_gwOA=w544-h544-l90-rj",
+        "snippet": {
+          "channelId": "UCGZhNQ6mRnvLa0_oVJNG_kA",
+          "title": "LP - Shaken (Official Animated Video)",
+          "categoryId": "10"
+        },
+        "statistics": {
+          "viewCount": "2644436",
+          "likeCount": "41166",
+          "dislikeCount": "1026",
+          "favoriteCount": "0",
+          "commentCount": "1446"
+        }
+      },
+      {
+        "id": "yIgFcIcSRa0",
+        "img": "https://lh3.googleusercontent.com/opIAAvJnAqSXWVnIfnRgeXp5lH5HnxdbEQcfYo21X0Yw8aNHI_iwioBZ-6_6yc1L6Ysiga2Jyw0FX_gwOA=w544-h544-l90-rj",
+        "snippet": {
+          "channelId": "UCGZhNQ6mRnvLa0_oVJNG_kA",
+          "title": "LP - One Night In The Sun (Audio)",
+          "categoryId": "10"
+        },
+        "statistics": {
+          "viewCount": "2539655",
+          "likeCount": "20196",
+          "dislikeCount": "314",
+          "favoriteCount": "0",
+          "commentCount": "781"
+        }
+      },
+      {
+        "id": "7jR65jnUyvA",
+        "img": "https://lh3.googleusercontent.com/gSjSpiwhol20w2GLjYSR81AOBvdo1UiLRBeu8RbVuRZjtHh6yipa22c26_TZK2Jm7_BGi4FApSXFIZo2VA=w544-h544-l90-rj",
+        "snippet": {
+          "channelId": "UCfM3zsQsOnfWNUppiycmBuw",
+          "title": "Lock It Up (feat. Anderson .Paak) [Official Audio]",
+          "categoryId": "10"
+        },
+        "statistics": {
+          "viewCount": "9795148",
+          "likeCount": "114764",
+          "dislikeCount": "1852",
+          "favoriteCount": "0",
+          "commentCount": "5743"
+        }
+      },
+      {
+        "id": "tH-GPdkkNik",
+        "img": "https://lh3.googleusercontent.com/5A8HNW2FmsutZWsPRyXGvaGKt1bAPmNm4HUnwzlceEZ4Nv52oGSIpnxXn8TZlFXCASRzBwfoSBrkaKTV=w544-h544-l90-rj",
+        "snippet": {
+          "channelId": "UCIaFw5VBEK8qaW6nRpx_qnw",
+          "title": "What If",
+          "categoryId": "10"
+        },
+        "statistics": {
+          "viewCount": "2047266",
+          "likeCount": "19405",
+          "dislikeCount": "1871",
+          "favoriteCount": "0",
+          "commentCount": "215"
+        }
+      }
+    ]
+  }
+]
